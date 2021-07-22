@@ -1,4 +1,4 @@
-FROM bde2020/spark-worker:3.0.2-hadoop3.2
+FROM bde2020/spark-worker:3.1.1-hadoop3.2
 
 ARG ZEPPELIN_VERSION="0.9.0"
 
